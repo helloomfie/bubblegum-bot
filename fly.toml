@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for bubblegum-bot on 2024-12-22T08:22:18Z
+# fly.toml app configuration file generated for bubblegum-bot-gpealq on 2024-12-22T08:59:04Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'bubblegum-bot'
-primary_region = 'arn'
+app = 'bubblegum-bot-gpealq'
+primary_region = 'ewr'
 
 [build]
 
